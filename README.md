@@ -1,0 +1,1 @@
+This is a 3.2.8 rails application that uses Devise for authentication and user management, CanCan for authorization that restricts the resources that a user can access and Twitter Bootstrap for styling and layout
